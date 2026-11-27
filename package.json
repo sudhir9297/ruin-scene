@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sudhir9297.github.io/Ruin-polygon-runway",
+  "homepage": "https://sudhir9297.github.io/ruin-scene",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
